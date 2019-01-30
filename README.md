@@ -9,14 +9,14 @@ Results (Corpus: Comments from September 2018) :
 
     These Data points are available in the dataset: 
     
-    2.1 Average Response Time
+    a. `Average Response Time`
     
-    2.2 Total Number of comments made by the user
+    b. `Total Number of comments made by the user`
     
-    2.3 Total Number of unique subreddits the user has commented on
+    c. `Total Number of unique subreddits the user has commented on`
     
-    2.4 Total Number of unique submission by the user
+    d. `Total Number of unique submission by the user`
     
-    2.5 Average Comment Length
+    e. `Average Comment Length`
     
-    2.6 Levenshtein Ratio - Average of Levenshtein Score over all the user comments. Levenshtein Score is calculated between two comments: any given comment made by the user vs the last comment made by the same user. This gives us an obvious metric to detect bots (since bots usually have repetition in their commenting style)
+    f. `Levenshtein Ratio` - Average of Levenshtein Score over all the user comments. Levenshtein Score is calculated between two comments: any given comment made by the user vs the last comment made by the same user. This gives us an obvious metric to detect bots (since bots usually have repetition in their commenting style)
